@@ -1,1 +1,1 @@
-# 自用EAC配置文件
+# 自用Exact Audio Copy配置文件
